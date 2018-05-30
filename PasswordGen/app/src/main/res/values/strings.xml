@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PasswordGen</string>
+    <string name="hello_msg">Hello world. Welcome everyone to concurrency model</string>
+    <string name="passcount">Select passwords count :</string>
+    <string name="zeroString">0</string>
+    <string name="passlength">Select passwords length :</string>
+    <string name="password">Password:</string>
+    <string name="Genpass_thread">Generate Passwords</string>
+    <string name="Gen_thread">Generate Passwords (Thread)</string>
+    <string name="Gen_async" />
+    <string name="Gen_asynctask">Generate Passwords (Async Task)</string>
+    <string name="nullString" />
+    <string name="oneString">1</string>
+    <string name="eightString">8</string>
+</resources>
